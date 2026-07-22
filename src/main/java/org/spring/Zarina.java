@@ -2,6 +2,6 @@ package org.spring;
 
 public class Zarina {
     public static void main(String[] args) {
-        System.out.println(" changes Zarina");
+        System.out.println("11 Zarina");
     }
 }
