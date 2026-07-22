@@ -2,6 +2,6 @@ package org.spring.conflict1;
 
 public class conflictClass1 {
     public static void main(String[] args) {
-        System.out.println("This is my conflict class 1");
+        System.out.println("changes in master 1");
     }
 }
